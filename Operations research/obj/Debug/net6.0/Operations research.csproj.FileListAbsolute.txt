@@ -1,0 +1,14 @@
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\bin\Debug\net6.0\Operations research.exe
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\bin\Debug\net6.0\Operations research.deps.json
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\bin\Debug\net6.0\Operations research.runtimeconfig.json
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\bin\Debug\net6.0\Operations research.dll
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\bin\Debug\net6.0\Operations research.pdb
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\Operations research.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\Operations research.AssemblyInfoInputs.cache
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\Operations research.AssemblyInfo.cs
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\Operations research.csproj.CoreCompileInputs.cache
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\Operations research.dll
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\refint\Operations research.dll
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\Operations research.pdb
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\Operations research.genruntimeconfig.cache
+D:\Programming\KPI programs\Донець ДО\Operations research\Operations research\obj\Debug\net6.0\ref\Operations research.dll
